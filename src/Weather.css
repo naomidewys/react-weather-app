@@ -1,0 +1,18 @@
+h1,
+h2 {
+  text-align: center;
+}
+
+p {
+  font-size: 16px;
+  text-align: center;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
+
+.col {
+  justify-content: space-around;
+}
