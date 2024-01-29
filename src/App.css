@@ -1,6 +1,11 @@
 .App {
-  border: 1px solid rgb(172, 141, 216);
+  border: 1px solid white;
   border-radius: 5px;
   margin: 0 auto;
   width: 600px;
+  background: linear-gradient(
+    180deg,
+    rgb(172, 141, 216) 0%,
+    rgb(249, 227, 172) 100%
+  );
 }
