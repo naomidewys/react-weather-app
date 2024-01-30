@@ -45,7 +45,7 @@ export default function Weather(props) {
         <h2>
           <span className="weather-icon">
             <img src={weather.icon} alt={weather.description} />
-          </span>{" "}
+          </span>
           <span className="temperature">
             <strong>{Math.round(weather.temperature)}</strong>
           </span>
