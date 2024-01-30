@@ -43,7 +43,7 @@ p {
 }
 
 .Weather .btn:hover {
-  background-color: rgb(136, 138, 222);
+  background-color: rgba(124, 60, 170, 0.5);
   border: solid 1px white;
 }
 
