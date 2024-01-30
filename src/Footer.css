@@ -1,4 +1,10 @@
 .footer {
   text-align: center;
-  font-size: 10px;
+  font-size: 11px;
+  font-weight: 700;
+  margin: 20px 0;
+}
+
+.footer a {
+  color: rgb(124, 60, 170);
 }
