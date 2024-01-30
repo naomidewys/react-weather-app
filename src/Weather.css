@@ -32,8 +32,12 @@ p {
   font-size: 18px;
   position: relative;
   top: -32px;
-  margin-left: 5px;
+  margin-left: 3px;
   line-height: 1;
+}
+
+.Weather .weather-description {
+  text-transform: capitalize;
 }
 
 .Weather .btn {
