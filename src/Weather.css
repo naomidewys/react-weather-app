@@ -29,29 +29,24 @@ p {
 
 .Weather .today-weather {
   text-align: center;
-  margin: 10px 0;
+  margin: 10px 0 15px;
 }
 
-.Weather .today-weather-icon {
+.Weather canvas {
+  margin-right: 8px;
   position: relative;
-  top: -20px;
-  margin-right: -10px;
+  top: 10px;
 }
 
 .Weather .unit {
   font-size: 18px;
   position: relative;
   top: -34px;
-  margin-left: 3px;
   line-height: 1;
 }
 
 .Weather .weather-description {
   text-transform: capitalize;
-}
-
-.Weather .weather-condition {
-  margin-top: -30px;
 }
 
 .Weather .btn {
