@@ -1,5 +1,4 @@
 .Weather h1,
-h2,
 p {
   text-align: center;
 }
@@ -8,13 +7,6 @@ p {
   font-size: 45px;
   font-weight: 600;
   margin: 20px 0 0 0;
-}
-
-.Weather h2 {
-  font-size: 70px;
-  padding: 20px 0;
-  margin-left: 0;
-  line-height: 70px;
 }
 
 .Weather p {
@@ -29,16 +21,37 @@ p {
   margin-right: 20px;
 }
 
+.Weather .temperature {
+  font-size: 70px;
+  margin-left: 0;
+  line-height: 70px;
+}
+
+.Weather .today-weather {
+  text-align: center;
+  margin: 10px 0;
+}
+
+.Weather .today-weather-icon {
+  position: relative;
+  top: -20px;
+  margin-right: -10px;
+}
+
 .Weather .unit {
   font-size: 18px;
   position: relative;
-  top: -36px;
+  top: -34px;
   margin-left: 3px;
   line-height: 1;
 }
 
 .Weather .weather-description {
   text-transform: capitalize;
+}
+
+.Weather .weather-condition {
+  margin-top: -30px;
 }
 
 .Weather .btn {
