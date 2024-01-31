@@ -21,6 +21,11 @@ p {
   margin-right: 20px;
 }
 
+.Weather a {
+  text-decoration: none;
+  color: rgb(124, 60, 170);
+}
+
 .Weather .temperature {
   font-size: 70px;
   margin-left: 0;
