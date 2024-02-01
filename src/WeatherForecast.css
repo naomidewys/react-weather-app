@@ -7,3 +7,11 @@
   font-weight: bold;
   margin-left: 5px;
 }
+
+.WeatherForecast-day {
+  margin-bottom: -5px;
+}
+
+.WeatherForecast-temperature {
+  margin-top: 10px;
+}

@@ -33,7 +33,7 @@ p {
 
 .Weather .temperature {
   font-size: 70px;
-  margin-left: 0;
+  margin-left: 8px;
   line-height: 70px;
 }
 
@@ -43,7 +43,6 @@ p {
 }
 
 .Weather canvas {
-  margin-right: 8px;
   position: relative;
   top: 10px;
 }
