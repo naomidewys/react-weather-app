@@ -39,7 +39,7 @@ p {
 
 .Weather .today-weather {
   text-align: center;
-  margin: 10px 0 15px;
+  margin: 10px 0 5px;
 }
 
 .Weather canvas {
